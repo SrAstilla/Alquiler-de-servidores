@@ -10,17 +10,27 @@
 }
 body {
   padding-top: 3.5rem;
-  background-color: #0096c7;
+  //*background-color: #0096c7;*/
+  background-image: url('../img/bonito.jpg');
 }
 .minecraft {
   font-family: minecrafter !important;
+  color:aquamarine;
 }
 .jumbotron {
-  background-image: url('../img/textura.jpg');
+  background-image: url('../img/bonito.jpg');
+  /*background-image: url('../img/textura.jpg');*/
 }
 .minecraftp {
   font-family: mine !important;
+  color: white;
 }
 main {
   font-family: 'Play', sans-serif !important;
+}
+
+main {
+  /*background-image: url('../img/bonito.jpg');*/
+  background-color:#0598b6;
+  
 }
