@@ -1,5 +1,8 @@
 .card-body:hover {background-color:#f2f2f2;}
 .bg-light1{background-color:#f2f2f2 !important;}
+.services {
+    background-image: url(../img/bonito.jpg);
+}
 .icon {
     height: 65px;
     width: 65px;
@@ -11,4 +14,17 @@
 .coche2 {
     height: 65px;
     width: 95px;
+}
+.navy {
+    height: 65px;
+    width: 65px;
+}
+.nav {
+    margin-bottom: 3%;
+}
+.cuadrados {
+    background-color: rgba(255,255,255, 0.3) !important;
+}
+.textacos {
+    font-weight: 1000;
 }
